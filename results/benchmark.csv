@@ -1,0 +1,2 @@
+"called","TP","FP","FN","precision","recall","observed_FDR","nominal_FDR","lfc_correlation"
+606,537,69,63,0.886138613861386,0.895,0.113861386138614,0.05,0.989059202395018
